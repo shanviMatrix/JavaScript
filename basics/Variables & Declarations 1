@@ -1,0 +1,9 @@
+//JavaScript Variables & Declarations.
+
+* ES5 :- ECMAScript, a foundational version of JavaScript released in 2009, initially named livescript.
+* var :- ES5 (old)
+* let, const :- ES6 (new)
+* Keyword :- Any word that has some meaning.
+* variables declared and initialised using "var" keyword can be changed anytime again and again. But it's not ethical.
+* So we use "let" keyword. Here, Variables once declared can't be declared again.
+* We use "const" keyword when we know the definite final value of a variable. Can't be changed again either.
